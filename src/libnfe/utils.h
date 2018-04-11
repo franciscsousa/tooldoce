@@ -19,6 +19,7 @@
 #ifndef INCLUIDO_UTILS_H
 #define INCLUIDO_UTILS_H
 
+#include<stdint.h>
 #include<libnfe/erros.h>
 
 int error(char* msg, int codErro);
